@@ -7,6 +7,7 @@ import { FormsModule } from '@angular/forms';
 import { MainComponent } from './main/main.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { AboutWebsiteComponent } from './aboutWebsite/aboutWebsite.component';
+import {AlphabeticIndexComponent} from './alphabetic-index/alphabetic-index.component';
 
 
 @NgModule({
@@ -15,6 +16,7 @@ import { AboutWebsiteComponent } from './aboutWebsite/aboutWebsite.component';
     MainComponent,
     TopBarComponent,
     AboutWebsiteComponent
+    AlphabeticIndexComponent
   ],
   imports: [
     BrowserModule,
