@@ -2,12 +2,12 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0%;
     font-size: 17px;
-    line-height: 1.6; 
+    line-height: 1.6;
     background-color: #d0e1f9;
 }
 
 *,
-*:before, 
+*:before,
 *:after {
     box-sizing: border-box;
 }
@@ -35,10 +35,10 @@ h1, h2, h3, h4, h5, h6 {
     height: 100vh;
     min-height: 820px;
 
-    background: url(../images/title.image.jpeg) center
+    background: url(src/assets/image/title.image.jpeg) center
     no-repeat;
-    background-size: cover; 
-} 
+    background-size: cover;
+}
 
 .intro__inner {
 

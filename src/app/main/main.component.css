@@ -1,0 +1,7 @@
+.intro {
+  background-image: url('../../assets/image/background.png');
+  opacity: 0.6;
+}
+.intro__title {
+  color: rgba(0, 0, 50, 1);
+}
